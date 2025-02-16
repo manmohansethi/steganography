@@ -22,7 +22,7 @@ A Python-based **steganography** tool that allows you to **hide and extract** se
 
 ### **Step 1: Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/steganography.git
+git clone https://github.com/manmohansethi/steganography.git
 cd steganography
 ```
 
