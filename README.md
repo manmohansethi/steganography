@@ -127,6 +127,6 @@ Want to improve this project? Contributions are welcome! Feel free to submit a *
 ---
 
 ## 📧 **Contact**  
-📌 **GitHub:** [View Profile](https://github.com/manmohansethi)  
+📌 **GitHub:** [@manmohansethi](https://github.com/manmohansethi)  
 📌 **Email:** manmohansethi143@gmail.com  
 
